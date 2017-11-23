@@ -16,3 +16,8 @@ forge "http://forge.puppetlabs.com"
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 mod 'puppetlabs-dsc'
+mod 'puppetlabs-powershell'
+mod 'puppetlabs-reboot'
+mod 'puppetlabs-registry'
+mod 'puppetlabs-stdlib'
+mod 'puppet-windowsfeature'
